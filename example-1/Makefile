@@ -18,3 +18,4 @@ clean:
 	rm -rf *.o hello
 	rm -rf *.o hello-dbg 
 	del *.o hello.exe
+	del *.o hello-dbg.exe
