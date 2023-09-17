@@ -50,4 +50,5 @@ Simple project for study makefiles
 ---
 asciiart.club
 
-![⨁⨊⨥⨔⨈⨟CÅΙν'»⁽®](https://github.com/gtgthozz/StudyMake/assets/44411037/d7b1f255-b076-4b6d-abe8-486aa2abb911)
+
+![image (1)](https://github.com/gtgthozz/StudyMake/assets/44411037/5db93c8e-2220-42b2-aae2-accddc2b8259)
