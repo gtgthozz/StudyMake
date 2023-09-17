@@ -16,4 +16,4 @@ hello: hello.cpp
 
 clean:
 	rm -rf *.o hello 
-	del *.o projectname.exe
+	del *.o hello.exe
