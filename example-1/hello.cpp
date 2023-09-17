@@ -10,5 +10,7 @@ int main(int argc, char** argv)
             cout<<i<<'\t'<<argv[i]<<endl;
         }
     }
+
+    system("pause");
     return 0;
 }
